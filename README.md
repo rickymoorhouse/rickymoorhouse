@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! 👋
+
+ - Ops lead for IBM API Connect hosted cloud service
+ - Enjoy nature, photography, art and music
+ - I occasionally write [blog posts](https://rickymoorhouse.uk/blog/), [tweet](https://twitter.com/rickymoorhouse/) and post [photos](https://instagram.com/rickymoorhouse/)
+ 
 
 <!--
 **rickymoorhouse/rickymoorhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
